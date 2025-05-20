@@ -1,14 +1,14 @@
 [![MasterHead](https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://Jay2743.io)
 <h1 align="center">Hi 👋, I'm Jaydeep Nalawade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg?auto=compress&cs=tinysrgb&w=600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay2743&label=Profile%20views&color=0e75b6&style=flat" alt="jay2743" /> </p>
 
 
-- 🌱 I’m currently learning **Tosca**
+- 🌱 I’m currently learning **Hibernates**
 
-- 💬 Ask me about **Web Developement**
+- 💬 Ask me about **Full Stack Developement**
 
 - 📫 How to reach me **jaydeep.nalawade18@gmail.com**
 
